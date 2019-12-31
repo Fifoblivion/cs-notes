@@ -60,8 +60,5 @@ HOME=/root
 * `-t`: Allocate a pseudo-TTY. TTY is TeleTypeWriter - to print the file name of the terminal connected to standard input.
 
 ## Sources
-1. [](https://unix.stackexchange.com/questions/106847/what-does-aux-mean-in-ps-aux)
-2. [](https://en.wikipedia.org/wiki/OS-level_virtualization)
-3. [](https://www.geeksforgeeks.org/piping-in-unix-or-linux/)
-4. [](https://docs.docker.com/engine/reference/run/)
-5. [](https://docs.docker.com/engine/reference/commandline/top/)
+1. [Wikipedia: OS level virtualization](https://en.wikipedia.org/wiki/OS-level_virtualization)
+2. [Docker Reference](https://docs.docker.com/engine/reference/)
