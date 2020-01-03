@@ -63,22 +63,32 @@ But,
 * Triangles have three different distances, and squares have two different distances
 * For hexagons, all neighbors are equidistant. This property allows for simpler analysis of movement
 
-![tri_hex_sqr](resources/tri_hex_sqr.png)
+<p align="center">
+<img src="resources/tri_hex_sqr.png" alt="tri_hex_sqr" width="500"/>
+</p>
 
 * `k_ring(h3_address, ring_size)`: Hexagons have the property of expanding rings of neighbors approximating circles:
 
-![neighbors](resources/neighbors.png)
+<p align="center">
+<img src="resources/neighbors.png" alt="neighbors" width="500"/>
+</p>
 
 * `h3_to_parent(h3_address, res)`: Returns the parent (coarser) index containing h.
 * `h3_to_children(h3_address, res)`: Populates `children` with the indexes contained by `h3_address` at resolution `res`.
 
-![A parent hexagon approximately contains seven children](resources/parent-child.png)
+<p align="center">
+<img src="resources/parent-child.png" alt="parent-child" width="500"/>
+</p>
 
 * `uncompact(h3_address, res)`: Uncompacts the set `h3_address` of indexes to the resolution `res`, into a `compacted_hex_set`.
 * `compact(h3_addresses)`: Compacts the set `h3_addresses` of indexes as best as possible, into a  `compacted_hex_set`.
 
-![Compact Uncompact](resources/compact_uncompact.png)
+<p align="center">
+<img src="resources/compact_uncompact.png" alt="compact_uncompact" width="500"/>
+</p>
 
 ## Comparisons
 
-![Comparisons](resources/compare.png)
+<p align="center">
+<img src="resources/compare.png" alt="compare" width="500"/>
+</p>
