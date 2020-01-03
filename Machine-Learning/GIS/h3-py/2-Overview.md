@@ -9,7 +9,9 @@
 * impossible to tile the sphere/icosahedron completely with hexagons
 * each resolution of an icosahedral hexagon grid must contain exactly 12 pentagons at every resolution, with one pentagon centered on each of the icosahedron vertices.
 
-![H3 Resolutions](resources/h3_resolutions.png)
+<p align="center">
+<img src="resources/h3_resolutions.png" alt="H3 Resolutions" width="500"/>
+</p>
 
 ## Defintions
 1. A polyhedron with 20 faces [Wikipedia](https://en.wikipedia.org/wiki/Icosahedron)
