@@ -1,7 +1,5 @@
 # Good Developers Are Practical Not Emotional
 
-## Source: [Level Up Coding](https://levelup.gitconnected.com/good-developers-are-practical-not-emotional-a57d04376bd2)
-
 * It is not the problem itself but our reaction to it that causes misery in our lives
 * A developer needs to **practically respond** (stop and think about what he needs to face) to situations instead of reacting to them
 * The key is to **experience uncomfortable emotions** but **not get stuck** in them. Emotions have the ability to cloud our judgment
@@ -43,3 +41,7 @@
 * Communication. It’s about **honesty**. It’s about treating people in the organization as deserving to know the facts. You don’t try to give them half the story. You don’t try to hide the story. You treat them as…as true equals, and you communicate and communicate and communicate.
 
 > “We choose what attitudes we have right now. And it’s a continuing choice.” \- John Maxwell
+
+## References
+
+* [Level Up Coding](https://levelup.gitconnected.com/good-developers-are-practical-not-emotional-a57d04376bd2)
