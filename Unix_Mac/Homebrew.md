@@ -69,14 +69,14 @@ Run:						sudo htop
 
 ### Speedtest
 
-```
+```zsh
 //Install Speedtest			brew install speedtest-cli
 Run:						speedtest-cli
 ```
 
 ### Youtube-DL
 
-```
+```zsh
 //Install youtube-dl:		brew install youtube-dl
 //Install ffmpeg:			brew install youtube-dl ffmpeg
 Download highest-res vid:	youtube-dl -f bestvideo+bestaudio ‘link’
@@ -85,7 +85,7 @@ Help:						youtube-dl --help
 
 ### ImageMagick
 
-```
+```zsh
 //Install ImageMagick:		brew install imagemagick
 Add border (sample):		convert testing.png -border 1x1 -bordercolor black result.png
 Resize (sample):			convert testing.png -resize 1920 (or x1080) example.png
