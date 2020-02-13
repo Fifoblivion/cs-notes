@@ -8,15 +8,15 @@
 
 1. Install Xcode Tools:		
 
-```zsh
-xcode-select —install
-```
+    ```zsh
+    xcode-select —install
+    ```
 
 2. Install Homebrew
 
-```zsh
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
+    ```zsh
+    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    ```
 
 ## Cask
 
@@ -24,37 +24,39 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 
 1. Install Cask		
 
-```zsh
-brew install cask
-```
+    ```zsh
+    brew install cask
+    ```
 
 2. List apps:
 
-```zsh	
-brew search --casks
-```
+    ```zsh	
+    brew search --casks
+    ```
 
 3. Search apps:
 
-```zsh
-brew search (discord)
-```
+    ```zsh
+    brew search (discord)
+    ```
 
 4. Install:
 
-```zsh
-brew cask install (discord)
-```
+    ```zsh
+    brew cask install (discord)
+    ```
 
 5. Update:
-```zsh
-brew cask upgrade
-```
+
+    ```zsh
+    brew cask upgrade
+    ```
 
 6. Help:
-```zsh
-brew cask help
-```
+
+    ```zsh
+    brew cask help
+    ```
 
 ## Examples
 
