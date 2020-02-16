@@ -14,7 +14,7 @@
   * easy to write code that's easy to understand, both for the compiler and for a human reader.
   * Two factors that make for expressiveness:
     * intuitively readable constructs
-    * lack of boilerplate code
+    * lack of boilerplate cod
 
 ## Why
 
