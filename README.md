@@ -6,9 +6,9 @@ A compilation of all my computer science notes
 
 | Folder                                | Description                                     |
 | ------------------------------------- | ----------------------------------------------- |
-| [Docker](/Docker)                     | Docker                                          |
-| [Git](/Git)                           | Git                                             |
-| [Linux](/Linux)                       | Linux                                           |
+| [Docker](/Docker)                     | Docker and Kubernetes commands                  |
+| [Git](/Git)                           | Verson Control commands                         |
+| [Linux](/Linux)                       | Linux commands                                  |
 | [Machine_Learning](/Machine_Learning) | Machine Learning Algorithms and Implementations |
 | [Python](/Python)                     | Python Programming and Syntax                   |
 | [Statistics_Probability](/Python)     | Statistics and Probabilty Implementation        |
