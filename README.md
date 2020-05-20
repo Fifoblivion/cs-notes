@@ -9,7 +9,7 @@ A compilation of all my computer science notes
 | [Docker](/Docker)                     | Docker and Kubernetes commands                  |
 | [Git](/Git)                           | Verson Control commands                         |
 | [Linux](/Linux)                       | Linux commands                                  |
-| [Machine_Learning](/Machine_Learning) | Machine Learning Algorithms and Implementations |
+| [Machine Learning](/Machine_Learning) | Machine Learning Algorithms and Implementations |
 | [Python](/Python)                     | Python Programming and Syntax                   |
-| [Statistics_Probability](/Python)     | Statistics and Probabilty Implementation        |
+| [Statistics Probability](/Python)     | Statistics and Probabilty Implementation        |
 | [Miscellaneous](/Miscellaneous)       | Non-CS Articles, Summaries, etc.                |
