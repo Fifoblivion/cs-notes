@@ -13,3 +13,4 @@ A compilation of all my computer science notes
 | [Python](/Python)                     | Python Programming and Syntax                   |
 | [Statistics Probability](/Python)     | Statistics and Probabilty Implementation        |
 | [Miscellaneous](/Miscellaneous)       | Non-CS Articles, Summaries, etc.                |
+| [SQL](/SQL)                           | SQL notes from DataCamp                         |
