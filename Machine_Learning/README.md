@@ -12,3 +12,4 @@ A compilation of all my Machine Learning notes
 | [Machine Learning: A-Z](./Machine_Learning_A-Z)           | Codes from the Udemy course                        |
 | [Python Data Manipulation & Visualization](./Python-DM_V) | Data Manipulation & Visualization for Data Science |
 | [Time Series Analysis](./Time_Series_Analysis)            | Ways to do a TSA                                   |
+| [Internshala](./Internshala)                              | Data Science Training Course by Internshala        |
