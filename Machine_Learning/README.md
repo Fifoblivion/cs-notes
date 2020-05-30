@@ -13,3 +13,4 @@ A compilation of all my Machine Learning notes
 | [Python Data Manipulation & Visualization](./Python-DM_V) | Data Manipulation & Visualization for Data Science |
 | [Time Series Analysis](./Time_Series_Analysis)            | Ways to do a TSA                                   |
 | [Internshala](./Internshala)                              | Data Science Training Course by Internshala        |
+| [Clever Algorithms](./clever_algorithms)                  | Nature-Inspired Programming Recipes and book       |
