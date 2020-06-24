@@ -4,6 +4,7 @@ A compilation of all my Datacamp Projects
 
 ## Overview
 
-| Project                                                                                              |
-| ---------------------------------------------------------------------------------------------------- |
-| [TV, Halftime Shows, and the Big Game](./TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game) |
+| Project                                | Packages Explored                |
+| -------------------------------------- | -------------------------------- |
+| [The Big Game](./The%20Big%20Game)     | `Pandas`, `Matplotlib`,`Seaborn` |
+| [The App Market](./The%20App%20Market) | `Seaborn`, `Plotly`              |
