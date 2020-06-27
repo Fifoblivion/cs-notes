@@ -35,3 +35,4 @@ A compilation of all my computer science notes
 | [Miscellaneous](/Miscellaneous)         | Non-CS Articles, Summaries, etc.                |
 | [SQL](/SQL)                             | SQL notes from DataCamp                         |
 | [Datacamp Projects](/Datacamp_Projects) | Projects from DataCamp                          |
+| [Kaggle Notebooks](/Kaggle)             | Kaggle notebooks with comments                  |
