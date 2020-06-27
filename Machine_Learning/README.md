@@ -14,3 +14,4 @@ A compilation of all my Machine Learning notes
 | [Time Series Analysis](./Time_Series_Analysis)            | Ways to do a TSA                                   |
 | [Internshala](./Internshala)                              | Data Science Training Course by Internshala        |
 | [Clever Algorithms](./clever_algorithms)                  | Nature-Inspired Programming Recipes and book       |
+| [Kaggle Notebooks](./Kaggle)                              | Kaggle notebooks with personal comments            |
