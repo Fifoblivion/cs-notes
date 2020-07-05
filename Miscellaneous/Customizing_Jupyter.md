@@ -5,3 +5,4 @@
 3. [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes)
 4. [Permission denied: '/usr/local/share/jupyter'](https://github.com/Calysto/matlab_kernel/issues/68)
 5. [Bringing the best out of Jupyter Notebooks for Data Science](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)
+6. `jt -t monokai -f meslo -fs 11 -nf ptsans -nfs 11 -N -kl -cursw 2 -cursc r -cellw 95% -T -ofs 10 -dfs 10 -lineh 130`
