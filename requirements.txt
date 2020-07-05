@@ -8,6 +8,7 @@ bs4==0.0.1
 certifi==2020.6.20
 chardet==3.0.4
 colorclass==2.2.0
+configparser==3.5.0b2
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
